@@ -1,4 +1,4 @@
-# hyrule-jobs
+# Vue.js + typescript
 
 ## Project setup
 ```
